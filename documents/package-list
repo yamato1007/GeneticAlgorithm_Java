@@ -1,0 +1,11 @@
+geneticalgorithm
+geneticalgorithm.data
+geneticalgorithm.exception
+geneticalgorithm.process.calceval
+geneticalgorithm.process.crossing
+geneticalgorithm.process.mutation
+geneticalgorithm.process.select
+geneticalgorithm.userimplements
+main
+util
+util.timespan
